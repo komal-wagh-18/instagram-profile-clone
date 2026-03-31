@@ -1,0 +1,190 @@
+*{
+     font-family: "Noto Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    position: relative;
+    padding-left: 5px;
+}
+.container{
+     width: 350px;
+     height: 750px;
+     border: 2px solid black;
+     margin: auto;
+}
+ 
+.header{
+    height: 40px;
+    width: 350px;
+    padding-top:10px;
+}
+.header span{
+    position: relative;
+    padding-left: 20px;
+}
+ 
+.header i{
+    position: relative;
+    padding-left: 5px;
+}
+ 
+.profile .photo{
+        height:80px;
+        width: 75px;
+        background-size: cover;
+        border-radius: 100px;
+        box-shadow: 2px 2px 10px black;
+         
+}
+.profile .name{
+    position: relative;
+    left:90px;
+     bottom: 105px;
+}
+.profile .first{
+    position: relative;
+    left:90px ;
+    bottom: 110px;
+}
+.profile .second{
+     position: relative;
+     bottom: 133px;
+     left: 150px;
+}
+.profile .third{
+    position: relative;
+    left:250px ;
+    bottom: 153px;
+}
+.profile .fourth{
+    position: relative;
+    left:90px ;
+    bottom: 155px;
+}
+.profile .fifth{
+    position: relative;
+    left:150px ;
+    bottom: 175px;
+}
+.profile .sixth{
+    position: relative;
+    left:240px ;
+    bottom: 195px;
+}
+.profile .bio1{
+    position: relative;
+    bottom: 180px;
+}
+.profile .bio2{
+    position: relative;
+    bottom: 180px;
+}
+.profile .bio3{
+    position: relative;
+    bottom: 180px;
+}
+.profile .bio4{
+    position: relative;
+    bottom: 180px;
+}
+.profile .following,
+          .message,
+           .ellipsis{
+    bottom: 170px;
+    
+}
+.profile .following{
+   
+     width: 150px;
+ } 
+ .profile .message{
+     
+     width: 150px;
+ }
+ .hilights img{ 
+    height: 50px;
+    width: 50px;
+ }
+.h1{
+ position: relative;
+ left: 600px;
+ bottom: 450px;
+ border-radius: 100px;
+  }
+.h2{
+    position: relative;
+    left: 470px;
+    bottom: 450px;
+    border-radius: 450px;
+   }
+
+   .line1{
+    position: relative;
+    left:545px;
+    bottom: 455px;
+    font-size: small;
+     }
+   .line2{
+       position: relative;
+       left: 610px;
+        bottom: 472px;
+        font-size: small;
+      }
+      .tag{
+        position: relative;
+        bottom: 468px;
+        left: 550px;
+      }
+      .tag2{
+        position: relative;
+        bottom: 490px;
+        left: 780px;
+      }
+      .linehr{
+        position: relative;
+        bottom: 490px;
+        width: 200px;
+        right: 76px;
+        
+      }
+      .post1{
+        height: 150px;
+        width: 115px;
+        position: relative;
+        bottom: 340px;
+        left: 632px;
+ 
+      }
+      .post2{
+        height: 150px;
+        width: 115px;
+        position: relative;
+        bottom: 340px;
+        left:385px;
+ 
+      }
+      .post3{
+        height: 150px;
+        width: 115px;
+        position: relative;
+        bottom: 497px;
+        left: 504px;
+ 
+      }
+      .post4{
+        height: 150px;
+        width: 115px;
+        position: relative;
+        bottom: 497px;
+        left:259px;
+ 
+      }
+      .post5{
+        height: 150px;
+        width: 115px;
+        position: relative;
+        bottom: 497px;
+        left: 14.5px;
+ 
+      }
